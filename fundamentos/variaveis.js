@@ -34,6 +34,10 @@ let vip = true
 console.log(vip)
 console.log(typeof(vip))
 
+let fcm = 208 - (idade * 0.7)
+
+let imc = peso / (altura * altura)
+
 console.log("")
 console.log("--------------------------")
 console.log("     ficha do aluno"       )
@@ -44,4 +48,7 @@ console.log(`idade: ${idade}`)
 console.log(`peso: ${peso}`)
 console.log(`altura: ${altura}`)
 console.log(`vip: ${vip}`)
+console.log(`fmc: ${208 - (idade * 0.7)}`)
+// .tofixed(2) formata o resultado em 2 casas decimais
+console.log(`imc: ${peso / (altura * altura)}`)
 console.log("--------------------------")
