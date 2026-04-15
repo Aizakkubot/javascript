@@ -33,4 +33,21 @@ entrada --> processamento --> saida
 | -- | subtrair 1 do resultado | x-- | 10 |
 | % | resto da divisao | 10 % 3 | 1 | 
 
+## operadores logicos
+
+| operador | simbologia |
+|----------|------------|
+| AND | && |
+| OR | \|\| |
+| NOT | ! |
+
+## Comparadores 
+| operador | significado |
+|----------|-------------|
+| > | Maior que |
+| >= | Maior ou igual a |
+| < | Menor que |
+| <= | Menor ou igual que |
+| === | Identico a |
+| !== | Não identificado  |
 
