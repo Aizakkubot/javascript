@@ -59,8 +59,9 @@ if (condição) (
  //condição verdadeira
 )
 
-if condição(
+if (condição)(
   //condiçao verdadeira
+  
 ) else (
   //condiçao falsa
 )
