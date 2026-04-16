@@ -51,3 +51,18 @@ entrada --> processamento --> saida
 | === | Identico a |
 | !== | Não identificado  |
 
+###Estrutura de controle
+###Estrutura de controle condiucionais
+
+```javascript
+if (condição) (
+ //condição verdadeira
+)
+
+if condição(
+  //condiçao verdadeira
+) else (
+  //condiçao falsa
+)
+```
+
