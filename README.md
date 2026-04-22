@@ -55,16 +55,16 @@ entrada --> processamento --> saida
 ###Estrutura de controle condiucionais
 
 ```javascript
-if (condição) (
+if (condição) {
  //condição verdadeira
-)
+}
 
 if (condição)(
   //condiçao verdadeira
   
-) else (
+} else {
   //condiçao falsa
-)
+}
 
 if (condição 1) {
  //condição 1 verdadeira
