@@ -87,5 +87,16 @@ deafult:
  ````javascript
  for (let = 1), 1 < 10; i++ (
  // o codigo é repetido enquanto a condiçao for verdadeiras
+}
+
+wrile (condiçao) {
+ // o codigo repetido enquanto a condiçao for verdadeira
+}
+
+do {
+ // o codigo é executado uma vez idepedente da condiçao; depois
+ // o codigo é repetido enqyanto a condiçao for verdadeira
+} while
+
 ```
 
