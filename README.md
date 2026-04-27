@@ -82,7 +82,7 @@ deafult:
   //codigo caso o valor seja diferente de 1 ou 2
   break
 
-
+--------------------------------------------------
 ### laços de repetiçoes
  ````javascript
  for (let = 1), 1 < 10; i++ (
