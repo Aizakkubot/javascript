@@ -86,7 +86,7 @@ deafult:
 ### laços de repetiçoes
  ````javascript
  for (let = 1), 1 < 10; i++ (
- // o codigo é repetido enquanto a condiçao for verdadeiras
+ // o codigo é repetido enquanto a condiçao (i < 10) for verdadeiras
 }
 
 wrile (condiçao) {
