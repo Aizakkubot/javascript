@@ -14,4 +14,3 @@ do{
     console.log(`face do dado: ${Math.ceil(Math.random() * 6)}`)
     novojogo = prompt("deseja jogar novamente(s/n): ")
 } while (novojogo ==="s" || novojogo === "S")
-
